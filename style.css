@@ -11,7 +11,7 @@
 }
 
 html, body {
-  width: 50%;
+  width: fit-content%;
   height: 100%;
 }
 
